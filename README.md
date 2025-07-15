@@ -22,17 +22,17 @@ Dataset used: Housing Prices dataset (custom or from https://www.kaggle.com/data
 
 **🚀 Features**
 
-.Predict house prices based on user input.
+- Predict house prices based on user input.
 
-.Trained ML model using regression techniques.
+- Trained ML model using regression techniques.
 
-.User-friendly web interface (optional - Flask/Django).
+- User-friendly web interface (optional - Flask/Django).
 
-.Data visualization of important features.
+- Data visualization of important features.
 
-.Exploratory Data Analysis (EDA) and preprocessing.
+- Exploratory Data Analysis (EDA) and preprocessing.
 
-.Model performance metrics (R² Score, MAE, MSE, RMSE).
+- Model performance metrics (R² Score, MAE, MSE, RMSE).
 
 ## 🚀 Technologies Used
 
