@@ -33,4 +33,38 @@ Model performance metrics (R² Score, MAE, MSE, RMSE).
 ### 📊 ML Tools
 - Pandas
 - NumPy
+- Matplotlib
+- seaborn
 - scikit-learn (Linear Regression, Random Forest, etc.)
+
+house-price-prediction/
+├── backend/
+│ ├── app.py
+│ ├── model/
+│ │ └── house_model.pkl
+│ └── requirements.txt
+├── frontend/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+├── data/
+│ └── housing.csv
+├── notebooks/
+│ └── model_training.ipynb
+└── README.md
+
+**📊 Dataset**
+Dataset used: Housing Prices dataset (custom or from Kaggle)
+
+Features include:
+
+Area (sq ft)
+
+Number of bedrooms, bathrooms
+
+Location
+
+Year built
+
+Garage, amenities, etc.
+
