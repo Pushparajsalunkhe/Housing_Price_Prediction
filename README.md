@@ -7,17 +7,17 @@ This project aims to build a full-stack application that predicts the price of a
 **📊 Dataset**
 Dataset used: Housing Prices dataset (custom or from https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 
-.Features include:
+- Features include:
 
-.Area (sq ft)
+- Area (sq ft)
 
-.Number of bedrooms, bathrooms
+- Number of bedrooms, bathrooms
 
-.Location
+- Location
 
-.Year built
+- Year built
 
-.Garage, amenities, etc.
+- Garage, amenities, etc.
 
 
 **🚀 Features**
