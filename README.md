@@ -17,3 +17,20 @@ Data visualization of important features.
 Exploratory Data Analysis (EDA) and preprocessing.
 
 Model performance metrics (R² Score, MAE, MSE, RMSE).
+
+## 🚀 Technologies Used
+
+### 🔧 Backend
+- Python
+- Flask
+- scikit-learn
+
+### 🎨 Frontend
+- HTML5
+- CSS3
+- JavaScript (Fetch API)
+
+### 📊 ML Tools
+- Pandas
+- NumPy
+- scikit-learn (Linear Regression, Random Forest, etc.)
