@@ -5,7 +5,7 @@
 This project aims to build a full-stack application that predicts the price of a house based on user inputs such as area, number of bedrooms, bathrooms, and location. It integrates a machine learning model (trained using Python and scikit-learn) with a modern web frontend built using HTML, CSS, and JavaScript. Users can enter property details through the interactive UI, and the app communicates with a backend server (Flask) to return the predicted house price in real-time.The goal is to demonstrate the synergy of data science and web development by deploying an end-to-end predictive model in a user-friendly application.
 
 **📊 Dataset**
-Dataset used: Housing Prices dataset (custom or from Kaggle)
+Dataset used: Housing Prices dataset (custom or from https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
 
 Features include:
 
